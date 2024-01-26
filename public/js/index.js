@@ -25,7 +25,6 @@ const bookBtn = document.getElementById('book-tour');
 if (loginForm) {
   loginForm.addEventListener('submit', (e) => {
     e.preventDefault();
-    console.log('this is executing...');
     const email = document.getElementById('email').value;
     const password =
       document.getElementById('password').value;
@@ -57,7 +56,6 @@ if (userDataForm) {
       'photo',
       document.getElementById('photo').files[0],
     );
-    console.log(form);
 
     updateSettings(form, 'data');
   });
