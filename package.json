@@ -53,8 +53,5 @@
     "eslint-plugin-react": "^7.33.2",
     "parcel-bundler": "^1.12.5",
     "prettier": "^3.0.3"
-  },
-  "engines": {
-    "node": ">=10.0.0"
   }
 }
