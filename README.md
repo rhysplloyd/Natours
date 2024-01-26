@@ -1,1 +1,3 @@
-This covers my own personal learning in backend development through Jonas Schmedtmann's course on Node.js
+# Natours Application
+
+This repo covers all of my learning of node.js, express, mongoDB, mongoose and more from the course by Jonas Schmedtmann
